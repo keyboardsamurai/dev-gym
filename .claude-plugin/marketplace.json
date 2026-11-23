@@ -1,0 +1,18 @@
+{
+  "name": "dev-gym",
+  "owner": {
+    "name": "Antonio Agudo"
+  },
+  "metadata": {
+    "description": "dev gym: keep your coding skills sharp with your coding agent as trainer",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "dev-gym",
+      "description": "Real practice projects, hidden tests, senior-style code review, levels per topic. You write the code, with AI switched off.",
+      "source": "./",
+      "skills": ["./skills/dev-gym"]
+    }
+  ]
+}

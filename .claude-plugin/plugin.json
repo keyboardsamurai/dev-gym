@@ -1,0 +1,11 @@
+{
+  "name": "dev-gym",
+  "version": "1.0.0",
+  "description": "A coding gym inside your coding agent: real practice projects, hidden tests, senior-style code review, and levels per topic. You write the code, with AI switched off.",
+  "author": {
+    "name": "Antonio Agudo"
+  },
+  "repository": "https://github.com/keyboardsamurai/dev-gym",
+  "license": "MIT",
+  "keywords": ["practice", "coding-challenge", "code-review", "kata", "skills", "no-ai"]
+}
